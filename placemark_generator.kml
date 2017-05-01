@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document>
+<Style id="z1">
+<IconStyle><Icon><href>http://www.google.com/intl/en_us/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle>
+</Style>
+<Placemark><name>Portland</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.2843712,34.0327259</coordinates></Point>
+</Placemark>
+<Placemark><name>Expo/Ver</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.2933875,34.0180606</coordinates></Point>
+</Placemark>
+<Placemark><name>Verm/Jeff</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.2940507,34.025635</coordinates></Point>
+</Placemark>
+<Placemark><name>Jeff/Fig</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.2825227,34.022263</coordinates></Point>
+</Placemark>
+<Placemark><name>Fig/Expo</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.2838941,34.0191765</coordinates></Point>
+</Placemark>
+<Placemark><name>Marshall</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.2879678,34.0188291</coordinates></Point>
+</Placemark>
+<Placemark><name>SAL</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.2916626,34.0194804</coordinates></Point>
+</Placemark>
+<Placemark><name>Theta</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.2830349,34.0272608</coordinates></Point>
+</Placemark>
+<Placemark><name>Ralphs</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.2929814,34.0318453</coordinates></Point>
+</Placemark>
+</Document></kml>
